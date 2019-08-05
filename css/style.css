@@ -1,0 +1,30 @@
+button
+{
+    height: 10vmin;
+    width: 10vmin;
+    font-size: 25px;
+}
+button:hover
+{
+    background-color: transparent;
+}
+input
+{
+    margin: 1vmax;
+    padding: 1.25vmin;
+    font-size: 20px;
+    text-align: center;
+    width: 15vmin;
+}
+h1
+{
+    text-align: center;
+}
+body
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
